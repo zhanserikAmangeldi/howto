@@ -1,3 +1,5 @@
 print('v0')
 print('v1')
 print('v2')
+print('name')
+print('email')
